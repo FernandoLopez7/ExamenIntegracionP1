@@ -1,0 +1,12 @@
+IdTransaccion;Fecha;IdCategoria;IdProducto;Producto;Cantidad;PrecioUnitario;TotalVenta;Local
+1;5/5/2024;1;46;Barra de sonido;1;300;300;Quito
+2;5/6/2024;2;47;Plancha de vapor;2;70;140;Quito
+3;5/7/2024;1;48;Smartwatch;1;200;200;Quito
+4;5/8/2024;3;49;Hervidor eléctrico;1;40;40;Quito
+5;5/9/2024;2;50;Cortadora de pelo;1;150;150;Quito
+6;5/10/2024;1;51;Báscula inteligente;2;80;160;Quito
+7;5/11/2024;3;52;Horno tostador;3;120;360;Quito
+8;5/12/2024;1;53;Impresora 3D;1;500;500;Quito
+9;5/13/2024;2;54;Humidificador;1;60;60;Quito
+10;5/14/2024;1;55;Lámpara LED;4;25;100;Quito
+11;5/15/2024;3;56;Enfriador de vinos;1;400;400;Quito

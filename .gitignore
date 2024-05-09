@@ -1,0 +1,21 @@
+# Archivos de configuración específicos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpeta del entorno virtual de Python
+venv/
+
+# Archivos generados por Python
+*.pyc
+__pycache__/
+
+# Archivos de registro y salida
+*.log
+*.out
+
+# Carpeta de archivos de usuario
+/userfiles/
+
+# Carpeta de dependencias y archivos generados por npm
+node_modules/
+/dist/

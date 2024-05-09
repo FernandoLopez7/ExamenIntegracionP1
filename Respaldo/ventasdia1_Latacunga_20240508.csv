@@ -1,0 +1,16 @@
+IdTransaccion;Fecha;IdCategoria;IdProducto;Producto;Cantidad;PrecioUnitario;TotalVenta;Local
+1;5/5/2024;1;31;Altavoces Bluetooth;2;200;400;Latacunga
+2;5/6/2024;2;32;Freidora;1;300;300;Latacunga
+3;5/7/2024;1;33;Proyector;1;600;600;Latacunga
+4;5/8/2024;3;34;Envasadora al vacío;1;500;500;Latacunga
+5;5/9/2024;2;35;Cocina eléctrica;2;400;800;Latacunga
+6;5/10/2024;1;36;Reloj inteligente;3;250;750;Latacunga
+7;5/11/2024;3;37;Despertador;4;30;120;Latacunga
+8;5/12/2024;1;38;Batería externa;2;50;100;Latacunga
+9;5/13/2024;2;39;Cepillo eléctrico;3;70;210;Latacunga
+10;5/14/2024;1;40;Almohadilla térmica;1;100;100;Latacunga
+11;5/15/2024;3;41;Báscula de cocina;2;40;80;Latacunga
+12;5/16/2024;2;42;Ventilador de torre;1;150;150;Latacunga
+13;5/17/2024;1;43;Linterna recargable;4;20;80;Latacunga
+14;5/18/2024;3;44;Aspiradora de mano;1;120;120;Latacunga
+15;5/19/2024;2;45;Cámara de seguridad;2;180;360;Latacunga
